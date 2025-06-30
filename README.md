@@ -52,9 +52,3 @@ This repository contains two exercises using Sequelize ORM with SQLite:
 - [Sequelize](https://sequelize.org/)
 - [SQLite3](https://www.sqlite.org/index.html)
 - [Express](https://expressjs.com/) (for EX-3)
-
-Install dependencies:
-
-```bash
-npm install
-```
